@@ -1,0 +1,16 @@
+# E-Tongue for Dravya Detection
+
+An electronic tongue (E-Tongue) system that classifies Ayurvedic liquid
+samples using sensor data and machine learning.
+
+## What it does
+- Measures pH, Total Dissolved Solids (TDS) and Electrical Conductivity (EC)
+- Sends readings from an Arduino-based setup to a computer
+- Classifies samples such as Aloe vera, Amla and Giloy with trained ML models
+- Shows results in a Flask-based web interface
+
+## Contents
+- E-tongue updated final report.pdf: full project report
+
+## Department
+Dept. of Computer Science and Engineering, FETW, Sharnbasva University, Kalaburagi
